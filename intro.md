@@ -1,3 +1,9 @@
+---
+downloads:
+  - file: intro.pdf
+    title: Plik PDF
+---
+
 # Witaj na kursie SAD 2025!
 
 SAD 2025 | Karol Flisikowski | Lato 2025 | PG
