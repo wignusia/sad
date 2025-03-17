@@ -20,6 +20,6 @@ project:
       articles: intro.md
 site:
   template: book-theme
-    options:
-  favicon: sad.ico
-  logo: sad.jpg
+  options:
+    favicon: sad.ico
+    logo: sad.jpg
