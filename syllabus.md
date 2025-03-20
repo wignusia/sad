@@ -18,9 +18,9 @@ Tematy te zostaną omówione w kontekście **ćwiczeń praktycznych** z rzeczywi
 
 Ten kurs ma na celu zapewnienie słuchacz(k)om szeregu narzędzi koncepcyjnych i technicznych. Moim celem jest, abyś pod koniec kursu był(a) w stanie:
 
--   **Zidentyfikować** i **wyjaśnić** kwestie etyczne, które pojawiają się w SAD, wraz z kwestiami analitycznymi w szerszym zakresie.\
--   **Projektować** i **wdrażać** jasne, zwięzłe i dokładne wizualizacje danych.\
--   **Proponować** i **testować** hipotezy dotyczące danych przy użyciu modeli statystycznych.\
+-   **Zidentyfikować** i **wyjaśnić** kwestie etyczne, które pojawiają się w SAD, wraz z kwestiami analitycznymi w szerszym zakresie.
+-   **Projektować** i **wdrażać** jasne, zwięzłe i dokładne wizualizacje danych.
+-   **Proponować** i **testować** hipotezy dotyczące danych przy użyciu modeli statystycznych.
 -   **Konstruować** modele statystyczne w Pythonie i **interpretować** wyniki.
 -   Rozważać zalety i wady różnych metryk oceny modeli.
 
@@ -29,7 +29,7 @@ Ten kurs ma na celu zapewnienie słuchacz(k)om szeregu narzędzi koncepcyjnych i
 ### Zespół dydaktyczny
 
 -   [Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): Profesor uczelni w Katedrze Statystyki i Ekonometrii PG.
--   [Paulina Listewnik](https://pl.linkedin.com/in/paulina-listewnik-phd-b9a62a137) - Dr inz. w Kidde / SAD część 2. w semestrze zimowym.
+-   [Paulina Listewnik](https://pl.linkedin.com/in/paulina-listewnik-phd-b9a62a137) - Kidde / SAD część 2. w semestrze zimowym.
 
 #### Konsultacje
 
@@ -67,7 +67,7 @@ Należy pamiętać, że liczba po **prawej** stronie zakresu *nie jest zawarta* 
 
 Należy pamiętać, że moją zasadą jest *nie* zaokrąglanie ocen w górę z dwóch powodów:
 
-1.  Jeśli zaokrąglanie jest stosowane wybiórczo (tj. tylko wobec słuchaczy, którzy o to poproszą), jest to niesprawiedliwe wobec innych.\
+1.  Jeśli zaokrąglanie jest stosowane wybiórczo (tj. tylko wobec słuchaczy, którzy o to poproszą), jest to niesprawiedliwe wobec innych.
 2.  Jeśli zaokrąglanie jest stosowane powszechnie, po prostu redefiniuje granicę między dwiema ocenami literowymi (np. czyniąc 87% punktem odcięcia dla 4.5).
 
 ### Opóźnione nadesłanie projektu
@@ -80,19 +80,21 @@ W przeciwnym wypadku - zgodnie z regulaminem studiów podyplomowych i umową, pr
 
 Z instruktorami można skontaktować się w następujący sposób:
 
--   Godziny pracy.\
--   Publiczne pytanie na kanale Discord kursu SAD.\
--   Prywatna wiadomość przez Discord.\
+-   Godziny pracy.
+-   Publiczne pytanie na kanale Discord kursu SAD.
+-   Prywatna wiadomość przez Discord.
 -   E-mail.
 
 Dołącz do kanału Discord kursu SAD tutaj: [kanał Discord SAD 2025](https://discord.gg/s73RHudt)
 
 Należy pamiętać, że generalnie preferujemy komunikację przez Discord, a nie e-mail.
 
-## Inne informacje
+## Uczciwość akademicka
 
-### Uczciwość akademicka
+Prosimy o oddawanie własnych prac. Mimo że zachęcamy do wspólnej pracy nad niektórymi zadaniami, nadal należy rozumieć przesłany kod. 
 
-Prosimy o oddawanie własnych prac. Mimo że zachęcamy do wspólnej pracy nad niektórymi zadaniami, nadal należy rozumieć przesłany kod. Zestawy zadań i projekt końcowy powinny być wykonywane niezależnie.
+Zestawy zadań i projekt końcowy powinny być wykonywane niezależnie.
 
-Prosimy o zapoznanie się z zasadami uczciwości akademickiej [tutaj](https://cdn.files.pg.edu.pl/chem/Studenci/Dokumenty/Dla%20dyplomantów/PO%2029-2024%20-%20wytyczne%20dot.%20narzędzi%20GenAl.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=mediamgr%2F20250320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250320T133048Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1200&X-Amz-Signature=e3400f2a33247b1f62ad6c3cace31f890c0818a47a8e7a671844cbb2181fb251). Oszukiwanie i plagiatowanie są nieuczciwe wobec innych i ostatecznie wobec Ciebie. Zamiast tego, jeśli masz z czymś trudności - poproś o pomoc!
+Prosimy o zapoznanie się z zasadami uczciwości akademickiej [tutaj](https://cdn.files.pg.edu.pl/chem/Studenci/Dokumenty/Dla%20dyplomantów/PO%2029-2024%20-%20wytyczne%20dot.%20narzędzi%20GenAl.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=mediamgr%2F20250320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250320T133048Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1200&X-Amz-Signature=e3400f2a33247b1f62ad6c3cace31f890c0818a47a8e7a671844cbb2181fb251). 
+
+Oszukiwanie i plagiatowanie są nieuczciwe wobec innych i ostatecznie wobec Ciebie. Zamiast tego, jeśli masz z czymś trudności - poproś o pomoc!
