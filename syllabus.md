@@ -30,7 +30,7 @@ Moim celem jest, abyś pod koniec kursu był(a) w stanie:
 ### Zespół dydaktyczny
 
 - [Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): Profesor uczelni w Katedrze Statystyki i Ekonometrii PG.
-- [Paulina Listewnik](https://pl.linkedin.com/in/paulina-listewnik-phd-b9a62a137) - SAD część 2. w semestrze zimowym.
+- [Paulina Listewnik](https://pl.linkedin.com/in/paulina-listewnik-phd-b9a62a137) - Dr inz. w Kidde / SAD część 2. w semestrze zimowym.
 
 #### Konsultacje
 
