@@ -56,14 +56,14 @@ Jeśli bierzesz udział w kursie na ocenę, Twoja ocena zostanie ustalona zgodni
 
 Należy pamiętać, że liczba po **prawej** stronie zakresu *nie jest zawarta* w danym zakresie: to znaczy, że „4.5” waha się od 84% aż do 90.99%, ale nie obejmuje 91% (91% to 5.0).
 
- <span>Procent</span> | <span>Ocena</span>
+<span>Procent</span> | <span>Ocena</span>
 ----------------------|----------------
->91%     | 5.0
-84-91%   | 4.5
-77-84%   | 4.0
-70-77%   | 3.5
-60-70%   | 3
-<60%     | brak zaliczenia
+> 91%     | 5.0
+84-91%    | 4.5
+77-84%    | 4.0
+70-77%    | 3.5
+60-70%    | 3.0
+< 60%     | brak zaliczenia
 
 ### O zaokrąglaniu 
 
