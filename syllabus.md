@@ -10,7 +10,7 @@ This course will teach how you to think about **data** and **modeling** for **co
 -   Jakiej metody wizualizacji i analizy danych uzyć dla danej skali pomiarowej zmiennej?
 -   Jak dobrać metodę wnioskowania z próby do zadanego problemu badawczego?
 -   Jaki **model** jest najbardziej odpowiedni dla tych danych?
--   W jaki sposób **projektować i wdrażać** te modele - od \[regresji liniowej\] (https://en.wikipedia.org/wiki/Linear_regression) do \[maszyn wektorów nośnych\] (https://en.wikipedia.org/wiki/Support_vector_machine)?
+-   W jaki sposób **projektować i wdrażać** te modele - od [regresji liniowej](https://en.wikipedia.org/wiki/Linear_regression) do [maszyn wektorów nośnych](https://en.wikipedia.org/wiki/Support_vector_machine)?
 
 Tematy te zostaną omówione w kontekście **ćwiczeń praktycznych** z rzeczywistymi zestawami danych w **środowisku programistycznym Python**.
 
@@ -48,7 +48,7 @@ Ten kurs ma na celu zapewnienie słuchacz(k)om szeregu narzędzi koncepcyjnych i
 
 ### Projekt
 
-Twoja ocena końcowa bazuje na wykonaniu w małej grupie projektu końcowego: [SAD](final.md).
+Twoja ocena końcowa bazuje na wykonaniu w małej grupie projektu końcowego: [szczegóły nt. projektu](final.md).
 
 Jeśli bierzesz udział w kursie na ocenę, Twoja ocena zostanie ustalona zgodnie z poniższą skalą.
 
