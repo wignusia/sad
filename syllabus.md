@@ -41,9 +41,9 @@ Moim celem jest, abyś pod koniec kursu był(a) w stanie:
 
 ### Kiedy/Gdzie?:
 
-- Sesja 1. i 2. 26/04/2025 9:00 - 16:00 z przerwą 12:15-12:45
-- Sesja 3. 16/05/2025 16:30 - 20:00
-- Sesja 4. 17/05/2025 12:50 - 16:00
+- Sesja 1. i 2. 26/04/2025 9:00 - 16:00 z przerwą 12:15-12:45 /sala 203
+- Sesja 3. 16/05/2025 16:30 - 20:00 /sala 203
+- Sesja 4. 17/05/2025 12:50 - 16:00 /sala 203
 - Termin nadesłania projektu: najpóźniej do 24/05/2025 23:59. Mailowo podeślijcie mi tylko link do REPO projektu.
 
 ## Ocena końcowa
