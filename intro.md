@@ -35,13 +35,10 @@ Obecna edycja SAD na studiach podyplomowych to **Lato 2025**. Prowadzącym jest 
 
 Omawiane tematy będą obejmować:
 
-- Kwestie etyczne analizy danych: stronniczość, uczciwość, prywatność i inne.  
 - Porządkowanie i czyszczenie danych (część 1/2).
 - Wizualizacja danych (część 1/2).
-- Statystyka opisowa.
-- Statystyka matematyczna.
-- Klasyfikacja (podstawy).
-- Podejścia nienadzorowane (podstawy). 
+- Statystyka opisowa - opis próby.
+- Statystyka matematyczna - wnioskowanie z próby.
 
 Więcej informacji znajdziesz w [syllabusie](syllabus.md).
 

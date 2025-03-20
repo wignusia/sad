@@ -21,5 +21,7 @@ project:
 site:
   template: book-theme
   options:
+    twitter: Karol_Flisik
     favicon: sad.ico
     logo: sad.jpg
+    extra_footer: "© 2025 Karol Flisikowski. All rights reserved."
