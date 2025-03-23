@@ -28,7 +28,7 @@ Ten kurs ma na celu zapewnienie słuchacz(k)om szeregu narzędzi koncepcyjnych i
 
 ### Zespół dydaktyczny
 
--   [Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): Profesor uczelni w Katedrze Statystyki i Ekonometrii PG.
+-   [Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): Profesor uczelni w Katedrze Statystyki i Ekonometrii PG / SAD część 1. w semestrze letnim.
 -   [Paulina Listewnik](https://pl.linkedin.com/in/paulina-listewnik-phd-b9a62a137) - Kidde / SAD część 2. w semestrze zimowym.
 
 #### Konsultacje
@@ -36,6 +36,7 @@ Ten kurs ma na celu zapewnienie słuchacz(k)om szeregu narzędzi koncepcyjnych i
 | Kto?              | Kiedy?      | Gdzie?                                                         |
 |--------------------|------------------------|-----------------------------|
 | Karol Flisikowski | Środy 14-15 | [Online](https://calendly.com/flisik/konsultacje-office-hours) |
+| Paulina Listewnik | --- | [E-mail](mailto:pgprogramowanie@gmail.com) |
 
 ### Kiedy/Gdzie?:
 
