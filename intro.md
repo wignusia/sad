@@ -30,7 +30,11 @@ Nie ma egzaminu końcowego; zobacz [syllabus](syllabus.md) by zobaczyć wszystki
 
 ## Obecna edycja
 
-Obecna edycja SAD na studiach podyplomowych to **Lato 2025**. Prowadzącym jest [Karol Flisikowski](https://www.flisikowski.eu/).
+Obecna edycja SAD na studiach podyplomowych to **Lato 2025**. 
+
+Prowadzącym jest [Karol Flisikowski](https://www.flisikowski.eu/). 
+
+E-mail: [karflisi@pg.edu.pl](mailto:karflisi@pg.edu.pl) | [karol@ctbu.edu.cn](mailto:karol@ctbu.edu.cn)
 
 ## Konsultacje 
 
