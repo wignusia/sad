@@ -59,9 +59,11 @@ Moim celem jest, abyś pod koniec kursu był(a) w stanie:
 
 ## Ocena końcowa
 
-### Projekt
+### Projekt końcowy
 
 Twoja ocena końcowa bazuje na wykonaniu w małej grupie projektu końcowego: [szczegóły nt. projektu](final.md).
+
+### Skala ocen
 
 Jeśli bierzesz udział w kursie na ocenę, Twoja ocena zostanie ustalona zgodnie z poniższą skalą.
 
