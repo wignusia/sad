@@ -29,30 +29,30 @@ Końcowym rezultatem (tym, co oddasz) będzie link do REPO na GitHubie, w który
 
 Istnieją dwa krytyczne wymagania dotyczące zestawu danych:
 
-1. Po pierwsze, powinien on dotyczyć **danych z zakresu nauk społecznych**. Jeśli nie masz pewności, czy dany zestaw danych się kwalifikuje, możesz nas zapytać.  
-2. Po drugie, powinien zawierać co najmniej **3 zmienne** (ale najlepiej więcej). Nie chcemy, abyś analizował tylko jedną zmienną, ani jak jedna zmienna odnosi się do jednej innej zmiennej. Idealnie byłoby, gdybyś wziął pod uwagę związek wielu zmiennych (np. w **regresji wielokrotnej**). 
+1. Po pierwsze, powinien on zawierać **główną zmienną zależną** - badaną, analizowaną. Jeśli nie masz pewności, czy dany zestaw danych się kwalifikuje, możesz mnie zapytać.  
+2. Po drugie, powinien zawierać co najmniej **3-4 zmienne** (ale najlepiej więcej). Nie chciałbym, aby analizowana była tylko jedna zmienna. Idealnie byłoby, gdyby wzięto pod uwagę związek wielu zmiennych (np. w końcu to **analiza przekrojowa, eksploracyjna**). 
 
 Mając to na uwadze, oto kilka pomysłów na **odpowiednie zestawy danych**. Możesz skorzystać z jednego z nich (i zadać pytania, które uważasz za interesujące), ale możesz też znaleźć własny; te zestawy danych zostały **zweryfikowane** nieco bardziej.
 
-| Zbiór danych | Dziedzina nauk społecznych | Opis | Dostęp |
-| ------ | ---- | ---------- | ------- |
-| World Bank Open Data | Economics / Global Development | Contains time series data for **many domains**, such as agricultural development, rural poverty, carbon emissions, and much, much more. | [Link to Data Bank](https://data.worldbank.org/); can browse by "indicator"; may require merging datasets for more information. |
-| [World Happiness Report](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021) | Economics / Global Development | Dataset about global happiness scores; might need to be merged with other datasets to ask useful questions. | [Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)|
-| World Energy Consumption | Contains time series data about consumption of **energy** and **electricity**. | [Link on Kaggle](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption) |
-| SCARFS (Spontaneous, controlled, acts of reference between friends and strangers) | Linguistics/Communication | Data about friends and strangers playing the game **Taboo**, which clues they gave, and whether a trial was wason. | [GitHub Link](https://github.com/seantrott/scarfs) |
-| [California Housing Prices](https://www.kaggle.com/datasets/camnugent/california-housing-prices) | Economics | Information about the median house value for different districts in California. | [Link on Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices). |
-| [Student alcohol consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption?select=student-por.csv) | Public Health | Information about student behavior, including alcohol consumption and more. |  [Link on Kaggle](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption?select=student-por.csv). |
-| [Dative Alternation](https://rdrr.io/cran/languageR/man/dative.html) | Linguistics | Dataset about which construction people use in the dative alternation: do they use NP ("She gave the man the box") or PP ("She gave the box to the man"). | Online, or ask Professor Trott for `.csv` file |
-
+| Zbiór danych | Dziedzina | Opis | Dostęp |
+| :------: | :----: | :----------: | :-------: |
+| World Bank Open Data | Ekonomia | Zawiera dane szeregów czasowych dla **wielu dziedzin**, takich jak rozwój rolnictwa, ubóstwo na obszarach wiejskich, emisje dwutlenku węgla i wiele, wiele innych. | [Link do banku danych](https://data.worldbank.org/); można przeglądać według „wskaźnika”; może wymagać połączenia zbiorów danych w celu uzyskania większej ilości informacji. |
+| [World Happiness Report](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021) | Ekonomia | Zbiór danych o globalnych wynikach szczęścia; może wymagać połączenia z innymi zbiorami danych, aby zadać przydatne pytania. | [Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)|
+| Zużycie energii na świecie | Energetyka | Zawiera dane szeregów czasowych o zużyciu **energii** i **energii elektrycznej**. | [Link na Kaggle](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption) |
+| SCARFS (Spontaniczne, kontrolowane akty odniesienia między przyjaciółmi i nieznajomymi) | Lingwistyka | Dane o przyjaciołach i nieznajomych grających w grę **Taboo**, które wskazówki dali i czy próba została przeprowadzona. | [Link do GitHub](https://github.com/seantrott/scarfs) |
+| [California Housing Prices](https://www.kaggle.com/datasets/camnugent/california-housing-prices) | Ekonomia | Informacje o medianie wartości domów dla różnych dzielnic w Kalifornii. | [Link na Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices). |
+| [Spożycie alkoholu przez studentów](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption?select=student-por.csv) | Zdrowie publiczne | Informacje o zachowaniu uczniów, w tym spożyciu alkoholu i nie tylko. | [Link na Kaggle](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption?select=student-por.csv). |
+| [Zbiory danych dla projektów z SAD](https://github.com/kflisikowsky/analiza_danych_projekt_zespolowy) | Rózne tematy | Zbiory danych przeznaczone dla projektów zespołowych na Analityce. Wiele zbiorów, rózniących się poziomem trudności, wraz z opisami. | [Link do mojego GitHuba](https://github.com/kflisikowsky/analiza_danych_projekt_zespolowy) |
 
 ### Trudność projektu
 
-Należy pamiętać, że weźmiemy również pod uwagę **trudność** związaną z projektem, zwłaszcza na etapie **danych** (np. czyszczenie danych, łączenie wielu zestawów danych). 
+Należy pamiętać, że pod uwagę zostanie wzięty również poziom **trudności** analiz związanych z projektem, zwłaszcza na etapie **danych** (np. czyszczenie danych, łączenie wielu zestawów danych). 
 
 Znalezienie i połączenie wielu zestawów danych nie jest *konieczne* - tzn. można uzyskać pełne punkty bez tego - ale jeśli pomyślnie wyczyścisz i połączysz wiele zestawów danych, może to „zrównoważyć” niższe wyniki w innej sekcji (np. **Wizualizacja**); czyli możesz myśleć o tym jako o rodzaju nieoficjalnego dodatkowego kredytu.
 
 Oto kilka przykładów rzeczy, które, choć nie są konieczne, uczyniłyby twój projekt trudniejszym, a tym samym bardziej imponującym:
 
-- **Łączenie** wielu zestawów danych, które znalazłeś, aby wykorzystać powiązanie danych.  
-- **Porównanie** wielu modeli statystycznych przy użyciu metod *wyboru modelu*, które omawialiśmy na zajęciach. 
+- **Łączenie** wielu zestawów danych, które znajdziesz, aby wykorzystać powiązanie danych.  
+- Niestandardowe **pakiety i funkcje** wykorzystane w analizie danych. Mozesz pokazać, jak dany problem rozwiązuje się za pomocą alternatywnych funkcji z mniej popularnych / bardziej wyrafinowanych pakietów.
+- **Połączenie** opisu i testowania z wizualizacjami - np. labelki średnich, mediany, kwartyli lub wyników testu statystycznego na tle boxplotów, przeźroczystych histogramów, wykresów gęstości itp.
 
