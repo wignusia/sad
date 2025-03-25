@@ -10,7 +10,7 @@ Będziesz pracować w małej grupie (2-3 osoby). Gorąco zachęcam do kontaktu, 
 
 Końcowym rezultatem (tym, co oddasz) będzie link do REPO na GitHubie, w którym Twój zespół umieści wszystkie pliki projektu: 
 
-- notatnik Jupyter z następującymi sekcjami (patrz tabela poniżej); każda sekcja jest warta określoną liczbę punktów, sumując do 20; **minimalna** liczba punktów, aby zaliczyć projekt to 10 (patrz skala ocen).
+- notatnik Jupyter z następującymi sekcjami (patrz tabela poniżej); każda sekcja jest warta określoną liczbę punktów, sumując do 20; **minimalna** liczba punktów, aby zaliczyć projekt to 10 (patrz [skala ocen](https://kflisikowsky.github.io/sad/syllabus#skala-ocen)).
 - dane (np. pliki CSV).
 - dodatkowe pliki, mile widziane opublikowane estetycznie raporty EDA w formacie Markdown (MD, HTML, PDF itp.).
 
