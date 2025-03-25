@@ -25,6 +25,7 @@ project:
         - file: syllabus.md
         - file: final.md
     - file: 01-review1.ipynb
+    - file: 02-review2.ipynb
   exports:
     - format: pdf
       template: lapreprint-typst
