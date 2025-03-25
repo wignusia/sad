@@ -24,7 +24,7 @@ Ten kurs jest jednym z [**dwóch podstawowych kursów** z zakresu statystycznej 
 
 ## Ocena końcowa
 
-Ocena końcowa wystawiona będzie na podstawie Twojego projektu końcowego. 
+Ocena końcowa wystawiona będzie na podstawie Twojego [projektu końcowego](final.md). 
 
 Nie ma egzaminu końcowego; zobacz [syllabus](syllabus.md) by zobaczyć wszystkie szczegóły nt. kursu.
 
