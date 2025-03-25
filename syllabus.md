@@ -14,7 +14,7 @@ Będzie obejmować stawianie i analizowanie pytań takich jak:
 -   Jaki **model** jest najbardziej odpowiedni dla tych danych?
 -   W jaki sposób **projektować i wdrażać** te modele - od [regresji liniowej](https://en.wikipedia.org/wiki/Linear_regression) do [maszyn wektorów nośnych](https://en.wikipedia.org/wiki/Support_vector_machine)?
 
-Tematy te zostaną omówione w kontekście serii krótkich **ćwiczeń praktycznych** z rzeczywistymi zestawami danych w **środowisku programistycznym Python**. Będziemy uzywać Visual Studio Code, formatu notatnika Jupyter Notebook, ew. pliku Markdown (MD) połączone na stałe z Twoim repozytorium na GitHubie dzięki wtyczce GitLens.
+Tematy te zostaną omówione w kontekście serii krótkich **ćwiczeń praktycznych** z rzeczywistymi zestawami danych w **środowisku programistycznym Python**. Będziemy uzywać Visual Studio Code, formatu notatnika Jupyter Notebook, ew. pliku Markdown (MD) połączonego na stałe z Twoim repozytorium na GitHubie dzięki wtyczce GitLens.
 
 ## Kluczowe efekty kształcenia
 
