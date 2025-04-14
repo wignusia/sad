@@ -28,6 +28,7 @@ project:
     - file: 02-review2.ipynb
     - file: 03-git.ipynb
     - file: 04-markdown.ipynb
+    - file: 05-dataviz-pyplot.ipynb
   exports:
     - format: pdf
       template: lapreprint-typst
