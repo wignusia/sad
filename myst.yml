@@ -32,6 +32,7 @@ project:
     - file: 06-dataviz-seaborn.ipynb
     - file: 07-dataviz-zasady.ipynb
     - file: 08-data-wrangling.ipynb
+    - file: 09-statystyka-opisowa.ipynb
   exports:
     - format: pdf
       template: lapreprint-typst
