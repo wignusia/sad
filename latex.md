@@ -1,12 +1,15 @@
-Latex - ściąga
+# Latex - ściąga
+
 ===========
-Cheatsheet dla LaTex, używający Markdown jako znaczników dla wszystkich, których Latex trochę przeraża :-)
+
+Cheatsheet dla LaTexa, używający Markdown jako język znaczników dla wszystkich, których Latex trochę przeraża :-) a potrzebują wzorków w swoich dokumentach technicznych z analizy danych.
 
 Więcej opisu znajdziecie tutaj: [https://tug.ctan.org/info/short-math-guide/short-math-guide.pdf](https://tug.ctan.org/info/short-math-guide/short-math-guide.pdf).
 
 Dodatkowo, na repo załączam ściągawkę w wersji do wydruku A4 w PDF tutaj: [latexsheet-a4.pdf](https://github.com/kflisikowsky/sad/blob/main/latexsheet-a4.pdf)
 
-Przykładowe wyrażenia / funkcje
+## Przykładowe wyrażenia / funkcje
+
 ============================
 
 Ty wprowadzasz             | Zrenderowane będzie wyglądało tak        |
@@ -15,19 +18,24 @@ Ty wprowadzasz             | Zrenderowane będzie wyglądało tak        |
 `$\sqrt{?\frac{\pi}{2}}$` | $\sqrt{\frac{\pi}{2}}$ |
 `$y = a x_1^2 + b x_2 + c$` | $y = a x_1^2 + b x_2 + c$ |
 
-Znaki specjalne / Symbole
+## Znaki specjalne / Symbole
+
 ============================
-###Łacińskie:
-#####Bez kropek:  
+
+### Łacińskie - bez kropek:
+
 `\imath` $\rightarrow$ $\imath$,
 `\jmath` $\rightarrow$ $\jmath$
 
-#####Daszek:  
+##### Daszek:  
+
 `\hat{\imath}`  $\rightarrow$ $\hat{\imath}$,
 `\hat{\jmath}`  $\rightarrow$ $\hat{\jmath}$
 
-###Alfabet grecki:
-#####Wielkie litery:
+### Alfabet grecki
+
+##### Wielkie litery:
+
 LaTex      |   | LaTex    |   |
 ----------:|--:|---------:|--:|
 `\Gamma`   | Γ | `\Delta` | ∆ |
@@ -37,7 +45,8 @@ LaTex      |   | LaTex    |   |
 `\Upsilon` | Υ | `\Xi`    | Ξ |
 `\Omega`   | Ω |          |   |
 
-#####Małe litery:
+##### Małe litery:
+
 LaTex      |   | LaTex     |   |
 ----------:|--:|----------:|--:|
 `\alpha`   | α | `\nu`     | ν |
@@ -53,7 +62,8 @@ LaTex      |   | LaTex     |   |
 `\chi`     | χ | `\psi`    | ψ |
 `\omega`   | ω |           |   |
 
-#####Inne:
+##### Inne
+
 LaTex       |   | LaTex       |   |
 -----------:|---|------------:|--:|
 `\digamma`  | ϝ | `varepsilon`| ε       |
@@ -63,8 +73,10 @@ LaTex       |   | LaTex       |   |
 `\eth`      | ð | `\hbar`     | $\hbar$ |
 
 
-###Inne
-####Inne symbole:
+### Inne
+
+#### Inne symbole
+
 LaTex         |   | LaTex            |   |
 -------------:|---|-----------------:|--:|
 `\partial`    | ∂ | `\infty`         | ∞ |
@@ -76,7 +88,8 @@ LaTex         |   | LaTex            |   |
 `\surd`       | √ | `\forall`        | ∀ |
 `\exists`     | ∃ | `\nexists`       | ∄ |
 
-####Wyrazenia logiczne
+#### Wyrażenia logiczne
+
 LaTex             |   | LaTex              |          |
 -----------------:|---|-------------------:|---------:|
 `\hookrightarrow` | ↪      | `\Rightarrow`     | ⇒         |
@@ -91,13 +104,15 @@ LaTex             |   | LaTex              |          |
 `\perp`            | ⊥     | ` \parallel`     | ∥          |
 `\vartriangle`     | $\vartriangle$
 
-####Binarne operatory
+#### Operatory binarne
+
 LaTex        |   | LaTex  |   |
 ------------:|---|-------:|--:|
 `\wedge`     | ∧ | `\vee` | ∨ |
 `\neg``\not` | ¬ |        |   |
 
-####Operatory kumulacji
+#### Operatory kumulacji
+
 LaTex     |           | LaTex       |             |
 ---------:|-----------|------------:|------------:|
 `\int`    | ∫         | `\iint`     | $\iint$     |
@@ -105,34 +120,35 @@ LaTex     |           | LaTex       |             |
 `\prod`   | $\prod$   | `\sum`      | $\sum$      |
 `\bigcup` | $\bigcup$ | `\bigcap`   | $\bigcap$   |
 
-####Operatory nazwane (matematyczne)
-$\arccos$,
-$\arcsin$,
-$\arctan$,
-$\arg$,
-$\cos$,
-$\cosh$,
-$\cot$,
-$\coth$,
-$\deg$,
-$\det$,
-$\dim$,
-$\exp$,
-$\gcd$,
-$\hom$,
-$\inf$,
-$\injlim$,
-$\lg$,
-$\lim$,
-$\liminf$,
-$\limsup$,
-$\ln$,
-$\log$,
-$\max$,
-$\min$,
-$\Pr$,
-$\projlim$,
-$\sec$,
-$\sin$,
-$\sinh$,
-$\sup$
+#### Operatory nazwane (matematyczne)
+
+$\arccos$, 
+$\arcsin$, 
+$\arctan$, 
+$\arg$, 
+$\cos$, 
+$\cosh$, 
+$\cot$, 
+$\coth$, 
+$\deg$, 
+$\det$, 
+$\dim$, 
+$\exp$, 
+$\gcd$, 
+$\hom$, 
+$\inf$, 
+$\injlim$, 
+$\lg$, 
+$\lim$, 
+$\liminf$, 
+$\limsup$, 
+$\ln$, 
+$\log$, 
+$\max$, 
+$\min$, 
+$\Pr$, 
+$\projlim$, 
+$\sec$,  
+$\sin$, 
+$\sinh$, 
+$\sup$ 
