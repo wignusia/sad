@@ -3,7 +3,7 @@ Latex - ściąga
 Cheatsheet dla LaTex, używający Markdown jako znaczników. Używam tego z [atom.io](https://atom.io/)
 i z pakietem `markdown-preview-plus` do pisania rzeczy matematycznych.
 
-Więcej opisu znajdziecie tutaj: [ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-guide.pdf](ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-guide.pdf).
+Więcej opisu znajdziecie tutaj: [https://tug.ctan.org/info/short-math-guide/short-math-guide.pdf](https://tug.ctan.org/info/short-math-guide/short-math-guide.pdf).
 
 Dodatkowo, na repo załączam ściągawkę w wersji do wydruku A4 w PDF tutaj: [latexsheet-a4.pdf](https://github.com/kflisikowsky/sad/blob/main/latexsheet-a4.pdf)
 
