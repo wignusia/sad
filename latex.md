@@ -1,7 +1,6 @@
 Latex - ściąga
 ===========
-Cheatsheet dla LaTex, używający Markdown jako znaczników. Używam tego z [atom.io](https://atom.io/)
-i z pakietem `markdown-preview-plus` do pisania rzeczy matematycznych.
+Cheatsheet dla LaTex, używający Markdown jako znaczników dla wszystkich, których Latex trochę przeraża :-)
 
 Więcej opisu znajdziecie tutaj: [https://tug.ctan.org/info/short-math-guide/short-math-guide.pdf](https://tug.ctan.org/info/short-math-guide/short-math-guide.pdf).
 
